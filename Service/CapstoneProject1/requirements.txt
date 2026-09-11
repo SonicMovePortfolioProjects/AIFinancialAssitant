@@ -1,0 +1,11 @@
+streamlit
+torch==2.5.1
+transformers==4.46.3
+sentence-transformers
+faiss-cpu
+numpy
+pandas
+google-genai
+python-dotenv
+google-cloud
+google-cloud-storage

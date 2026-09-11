@@ -1,0 +1,31 @@
+timestamp,question,answer,satisfactory
+2026-08-10T08:00:37.266168,What is Meta's revenue,"Meta's total revenue for 2024 was $164.50 billion, an increase of 22% compared to 2023 [Section:7, CompanyName:Meta, Chunk ID: META-7-2025-10, Confidence: 1.000].
+
+This total is composed of:
+*   Family of Apps revenue: $162,355 million for 2024 [Section:7, CompanyName:Meta, Chunk ID: META-7-2025-13, Confidence: 1.000].
+*   Reality Labs revenue: $2,146 million for 2024 [Section:7, CompanyName:Meta, Chunk ID: META-7-2025-13, Confidence: 1.000].",True
+2026-08-10T08:01:38.088781,WHAT is the revenue for Intel,The provided evidence does not contain information on Intel's revenue.,True
+2026-08-10T09:06:29.623243,Which geographical segment brought in most revenue for meta,"United States & Canada and Europe brought in relatively higher revenue for Meta.
+
+Section: 7,Management's Discussion and Analysis of Financial Condition and Results of Operations (MD&A)
+Company: Meta
+Chunk ID: META-7-2025-51
+Confidence Score: 0.989",True
+2026-08-10T09:08:48.838008,what was META.'s increase in daily active user year over year,"META's Family daily active people (DAP) increased by 5% year-over-year in 2024.
+
+Section: 7, Company: Meta, Chunk ID: META-7-2025-18, Confidence: 0.628",True
+2026-08-10T09:10:25.493955,What is META's mission statement,"META's mission is to build the future of human connection and the technology that makes it possible. (Section:1, Company:Meta, Chunk ID:META-1-2025-1, Confidence:0.415)",True
+2026-08-10T09:27:42.913844,What is Meta's free cash flow,"Meta's free cash flow was $52,103 million for the year ended December 31, 2024. For 2023, it was $43,010 million, and for 2022, it was $18,439 million.
+(Section:7, Company:Meta, Chunk ID:META-7-2025-183, Confidence:0.997)",True
+2026-08-12T23:31:27.035613,What risk factors are faced by Nvidia,"Nvidia faces several risk factors:
+
+*   Risks may increase when products are introduced into new devices, markets, technologies, and applications, or new versions are released. Additionally, relying on partners to supply and manufacture components reduces direct control over production.
+    *   Section:1A, Company:NVIDIA, Chunk ID:NVDA-1A-2025-72, Confidence:1.000
+*   Nvidia may incur additional costs and require more resources to monitor, report, and comply with various corporate sustainability practices and legal requirements. They may also choose not to conduct business with potential customers and suppliers, or discontinue/not expand business with existing ones due to their policies. These factors and increased disclosure could harm their brand, reputation, business activities, or expose them to liability.
+    *   Section:1A, Company:NVIDIA, Chunk ID:NVDA-1A-2025-276, Confidence:1.000
+*   Datasets used for AI outputs may be flawed, insufficient, or contain biased information, which could decrease resilience to security incidents compromising AI output integrity. This could lead to reputational damage, regulatory scrutiny, or adverse impacts on product performance and reliability, affecting partners' operations, customer trust, and revenue.
+    *   Section:1A, Company:NVIDIA, Chunk ID:NVDA-1A-2025-111, Confidence:1.000
+*   Their business continuity and disaster recovery planning may not be sufficient for all eventualities.
+    *   Section:1A, Company:NVIDIA, Chunk ID:NVDA-1A-2025-135, Confidence:1.000
+*   Reduced profitability of customers may cause them to scale back operations, exit businesses, file for bankruptcy, or lead to mergers, consolidations, or strategic alliances among other companies, which could adversely affect Nvidia's ability to compete effectively.
+    *   Section:1A, Company:NVIDIA, Chunk ID:NVDA-1A-2025-89, Confidence:1.000",True
